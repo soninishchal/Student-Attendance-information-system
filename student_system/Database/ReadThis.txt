@@ -1,0 +1,7 @@
+Goto -> Localost/phpmyadmin in browser after installing xampp server 
+
+Then 
+1. Create database student_system
+2. Import student_system.sql 
+
+
